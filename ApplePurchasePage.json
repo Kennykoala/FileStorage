@@ -1,0 +1,144 @@
+[
+    {
+        "Mac": [
+            {
+                "name": "13 吋 MacBook Air",
+                "des": "Apple M1晶片配備8核心CPU\n7核心GPU 256GB 儲存空間",
+                "price": "NT$27,800 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1603332211000",
+                "price8G": "NT$27,800",
+                "price16G": "NT$33,200"
+            },
+            {
+                "name": "13 吋 MacBook Air",
+                "des": "Apple M1晶片配備8核心CPU\n8核心GPU 512GB 儲存空間",
+                "price": "NT$35,800 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1603332211000",
+                "price8G": "NT$35,800",
+                "price16G": "NT$41,200"
+            },
+            {
+                "name": "13 吋 MacBook Pro",
+                "des": "Apple M1晶片配備8核心CPU\n8核心GPU 256GB 儲存空間",
+                "price": "NT$36,800 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-spacegray-select-202011_GEO_TW?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1613672892000",
+                "price8G": "NT$36,800",
+                "price16G": "NT$42,200"
+            },
+            {
+                "name": "13 吋 MacBook Pro",
+                "des": "Apple M1晶片配備8核心CPU\n8核心GPU 512GB 儲存空間",
+                "price": "NT$42,800 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-spacegray-select-202011_GEO_TW?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1613672892000",
+                "price8G": "NT$42,800",
+                "price16G": "NT$48,200"
+            }
+        ],
+        "iPad": [
+            {
+                "name": "iPad Pro 11 吋顯示器",
+                "des": "Liquid Retina顯示器",
+                "price": "NT$23,400 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-202104_GEO_TW?wid=485&amp;hei=510&amp;fmt=png-alpha&amp;.v=1617899803000",
+                "price128G": "NT$23,400",
+                "price256G": "NT$26,500",
+                "price512G": "NT$31,200",
+                "price1TB": "NT$43,600",
+                "price2TB": "NT$56,000"
+            },
+            {
+                "name": "iPad Pro 12.9 吋顯示器",
+                "des": "Liquid Retina XDR顯示器",
+                "price": "NT$31,900 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-202104_GEO_TW?wid=485&amp;hei=510&amp;fmt=png-alpha&amp;.v=1617903458000",
+                "price128G": "NT$31,900",
+                "price256G": "NT$35,000",
+                "price512G": "NT$41,200",
+                "price1TB": "NT$53,600",
+                "price2TB": "NT$66,000"
+            }
+        ],
+        "iPhone": [
+            {
+                "name": "iPhone 12 Pro",
+                "des": "6.1吋顯示器",
+                "price": "NT$33,900 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-family-hero-all?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1604021662000",
+                "price128G": "NT$33,900",
+                "price256G": "NT$37,400",
+                "price512G": "NT$44,400"
+            },
+            {
+                "name": "iPhone 12 Pro Max",
+                "des": "6.7吋顯示器",
+                "price": "NT$37,900 起",
+                "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-family-hero-all?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1604021663000",
+                "price128G": "NT$37,900",
+                "price256G": "NT$41,400",
+                "price512G": "NT$48,400"
+            }
+        ]
+    },
+    {
+        "Mac": [
+            {
+                "color": "太空灰色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=32&amp;hei=32&amp;fmt=png-alpha&amp;.v=0",
+                "macairurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1603332211000",
+                "macprourl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-spacegray-select-202011_GEO_TW?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1613672892000"
+            },
+            {
+                "color": "銀色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=32&amp;hei=32&amp;fmt=png-alpha&amp;.v=0",
+                "macairurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-silver-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1603332212000",
+                "macprourl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-silver-select-202011_GEO_TW?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1613673937000"
+            },
+            {
+                "color": "金色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-gold-select-201810_SW_COLOR?wid=32&hei=32&fmt=jpeg&qlt=95&.v=1539370797855",
+                "macairurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-gold-select-201810?wid=539&hei=312&fmt=jpeg&qlt=95&.v=1603332211000",
+                "macprourl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-gold-select-201810?wid=539&hei=312&fmt=jpeg&qlt=95&.v=1603332211000"
+            }
+        ],
+        "iPad": [
+            {
+                "color": "太空灰色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=32&amp;hei=32&amp;fmt=png-alpha&amp;.v=0",
+                "pad11url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617925790000",
+                "pad12url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-cell-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617920534000"
+            },
+            {
+                "color": "銀色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=32&amp;hei=32&amp;fmt=png-alpha&amp;.v=0",
+                "pad11url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617912663000",
+                "pad12url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617919669000"
+            }
+        ],
+        "iPhone": [
+            {
+                "color": "石墨色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-graphite-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                "prourl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
+                "promaxurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+            },
+            {
+                "color": "銀色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                "prourl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000",
+                "promaxurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+            },
+            {
+                "color": "金色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                "prourl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021659000",
+                "promaxurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000"
+            },
+            {
+                "color": "太平洋藍色",
+                "corurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-blue-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054547000",
+                "prourl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000",
+                "promaxurl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+            }
+        ]
+    }
+]
