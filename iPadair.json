@@ -1,45 +1,41 @@
-[
-    {
-        "iPad": [
-            {
-                "color": "太空灰色",
-                "corurl": "gray_icon.png",
-                "url": "gray.png"
-            },
-            {
-                "color": "太空灰色",
-                "corurl": "silver_icon.png",
-                "url": "silver.png"
-            },
-            {
-                "color": "太空灰色",
-                "corurl": "rose_icon.png",
-                "url": "rose.png"
-            },
-            {
-                "color": "太空灰色",
-                "corurl": "green_icon.png",
-                "url": "green.png"
-            },
-            {
-                "color": "太空灰色",
-                "corurl": "blue_icon.png",
-                "url": "blue.png"
-            }
-        ]
-    },
-    {
-        "iPad": [
-            {
-                "network": "Wi-Fi",
-                "price64GB": "NT$18,900",
-                "price256GB": "NT$23,900"
-            },
-            {
-                "network": "Wi-Fi + 行動網路",
-                "price64GB": "NT$23,200",
-                "price256GB": "NT$28,200"
-            }
-        ]
-    }
-]
+{
+    "colorObj": [
+        {
+            "color": "太空灰色",
+            "corurl": "gray_icon.png",
+            "url": "gray.png"
+        },
+        {
+            "color": "銀色",
+            "corurl": "silver_icon.png",
+            "url": "silver.png"
+        },
+        {
+            "color": "玫瑰金色",
+            "corurl": "rose_icon.png",
+            "url": "rose.png"
+        },
+        {
+            "color": "綠色",
+            "corurl": "green_icon.png",
+            "url": "green.png"
+        },
+        {
+            "color": "天藍色",
+            "corurl": "blue_icon.png",
+            "url": "blue.png"
+        }
+    ],
+    "wifiObj": [
+        {
+            "network": "Wi-Fi",
+            "price64GB": "NT$18,900",
+            "price256GB": "NT$23,900"
+        },
+        {
+            "network": "Wi-Fi + 行動網路",
+            "price64GB": "NT$23,200",
+            "price256GB": "NT$28,200"
+        }
+    ]
+}
